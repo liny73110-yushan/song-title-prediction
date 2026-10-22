@@ -1,6 +1,6 @@
 # Song Title Prediction from Humming and Whistling
 
-Mini-project for ECS7020P at Queen Mary University of London. The goal is to predict which song someone is humming or whistling from a short audio recording, framed as a multi-class classification problem.
+The goal is to predict which song someone is humming or whistling from a short audio recording, framed as a multi-class classification problem.
 
 This is a hard problem: people hum and whistle with very different pitch, tempo, rhythm and recording quality, and the dataset is small.
 
